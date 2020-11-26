@@ -1,0 +1,11 @@
+div.col-12 img{
+	width:100%;
+	height:auto;
+}
+
+body {
+    background: #003b54;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
